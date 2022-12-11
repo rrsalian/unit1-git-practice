@@ -132,6 +132,20 @@ To https://github.com/rrsalian/unit1-git-practice.git
 branch 'main' set up to track 'origin/main'.
 
 ### Step 6
+touch menu.txt
+git status
+git add .
+git commit -m 'starting a menu'
+git push
+Enumerating objects: 10, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 1.12 KiB | 1.12 MiB/s, done.
+Total 6 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 2 local objects.
+To https://github.com/rrsalian/unit1-git-practice.git
+   207272e..e69c38a  main -> main
 
 
 ### Step 7
