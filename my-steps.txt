@@ -99,10 +99,37 @@ mkdir drinks
 rmdir drinks
 
 ### Step 4
-my-steps.txt  plants/  proteins/  sweets/  veggies/
+git init
+Initialized empty Git repository in C:/Users/vihaa/Desktop/unit1-git-practice/.git/
+
+git add .
+warning: in the working copy of 'my-steps.txt', LF will be replaced by CRLF the next time Git touches it
+
+git commit -m 'first commit'
+[master (root-commit) 3c9ce29] first commit
+ 8 files changed, 111 insertions(+)
+ create mode 100644 my-steps.txt
+ create mode 100644 plants/carrot.txt
+ create mode 100644 plants/pea.txt
+ create mode 100644 proteins/meats/crab.txt
+ create mode 100644 proteins/tofu.txt
+ create mode 100644 sweets/donut.txt
+ create mode 100644 veggies/carrot.txt
+ create mode 100644 veggies/pea.txt
 
 ### Step 5
-
+$git branch -M main
+$git remote add origin https://github.com/rrsalian/unit1-git-practice.git
+$git push -u origin main
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (8/8), 1.19 KiB | 405.00 KiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/rrsalian/unit1-git-practice.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
 
 ### Step 6
 
