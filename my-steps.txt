@@ -1,0 +1,111 @@
+### Step 2A
+/c/Users/vihaa
+
+### Step 2B
+cd DESKTOP
+
+### Step 2C
+cd unit1-git-practice
+
+### Step 2D
+/c/Users/vihaa/DESKTOP/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd /c/
+
+### Step 2H
+/c
+
+### Step 2I
+$ ls
+'$Recycle.Bin'/                         'Program Files'/
+'$WinREAgent'/                          'Program Files (x86)'/
+'$Windows.~WS'/                          ProgramData/
+ Documents and Settings'@                ata/
+ Drivers/                               'ata Res'/
+ DumpStack.log.tmp                      'Summer Camp'/
+'Famsas L'/		                'System Volume Information'/
+ GCcode/                                'Visit s'/
+ Installs/                               UserGuidePDF/
+ Intel/                                  Users/
+ MSOCache/                               aan/
+ OneDriveTemp/                           Windows/
+ Ortho/                                  adobeTemp/
+ POTKSED/                                data/
+ PerfLogs/                               hiberfil.sys
+ Photos/                                 pagefile.sys
+'Piscataway BOB'/                        swapfile.sys
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd Desktop/unit1-git-practice/
+
+
+### Step 3A
+mkdir veggies
+mkdir meats
+mkdir desserts
+
+### Step 3B
+mv desserts sweets
+
+### Step 3C
+mkdir proteins
+
+### Step 3D
+mv meats proteins
+
+### Step 3E
+cd veggies
+touch carrot.txt pea.txt
+
+### Step 3F
+cd ../sweets
+touch cookie.txt
+
+### Step 3G
+mv cookie.txt donut.txt
+
+### Step 3H
+cd ../
+touch thing.txt
+
+### Step 3I
+cp thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt ../protieins/
+
+### Step 3K
+mv crab.txt proteins/meats/
+
+### Step 3L
+rm thing.txt
+
+### Step 3M
+cp -r veggies plants
+
+### Step 3N
+mkdir drinks
+rmdir drinks
+
+### Step 4
+my-steps.txt  plants/  proteins/  sweets/  veggies/
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
